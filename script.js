@@ -30,4 +30,10 @@ if (idade >= 18){
 else{
     idade = "menor de idade";
 }
-console.log("A pessoa é " + idade);
+console.log(" A pessoa é " + idade);
+
+var num;
+
+for (num = 1; num <= 10; num++) {
+    console.log(num);
+}
